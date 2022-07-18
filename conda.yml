@@ -11,3 +11,4 @@ dependencies:
       - wandb==0.10.31
       - protobuf=3.20.1
       - jinja2=3.0.3
+      - setuptools=45
